@@ -35,6 +35,8 @@ noButton.addEventListener('click',()=>{
  })
 
 yesButton.addEventListener('click',()=>{
+     noButton.disabled=true;
    gif.src="https://media.tenor.com/2bw-Zzp-mTMAAAAi/bear-hug.gif"
    document.querySelector('.main-button').textContent=`I LOVEEE YOUUUUU ❤️❤️❤️❤️❤️❤️❤️`
+
 })
