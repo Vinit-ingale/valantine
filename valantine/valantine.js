@@ -40,3 +40,4 @@ yesButton.addEventListener('click',()=>{
    document.querySelector('.main-button').textContent=`I LOVEEE YOUUUUU ❤️❤️❤️❤️❤️❤️❤️`
 
 })
+
